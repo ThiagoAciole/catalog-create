@@ -1,8 +1,18 @@
-# React + Vite
+# CatalogCreator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub last commit](https://img.shields.io/github/last-commit/seuusuario/CatalogCreator)
+![GitHub license](https://img.shields.io/github/license/seuusuario/CatalogCreator)
+![GitHub issues](https://img.shields.io/github/issues/seuusuario/CatalogCreator)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/seuusuario/CatalogCreator)
 
-Currently, two official plugins are available:
+O CatalogCreator é uma ferramenta desenvolvida em React com Vite para criar catálogos de produtos de forma rápida e eficiente. Com esta aplicação, os usuários podem inserir informações sobre produtos, como nome, URL da imagem, código, descrição e tipo de embalagem em um arquivo CSV, e a ferramenta gera um catálogo em PDF com tabelas que listam os produtos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Demonstração do CatalogCreator](link_para_imagem.gif)
+
+## Como Funciona
+
+O CatalogCreator simplifica o processo de criação de catálogos de produtos. Os principais recursos incluem:
+
+- **Inserção de Dados**: Os usuários podem preencher as informações dos produtos, como nome, URL da imagem, código, descrição e tipo de embalagem, em um arquivo CSV.
+
+- **Geração de Catálogo em PDF**: Após inserir os dados, o aplicativo gera automaticamente um catálogo em PDF com tabelas que apresentam os produtos.
