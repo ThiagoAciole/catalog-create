@@ -27,7 +27,7 @@ O CatalogCreator simplifica o processo de criação de catálogos de produtos. O
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/CatalogCreator.git
+   git clone https://github.com/ThiagoAciole/catalog-create.git
    cd CatalogCreator
    npm install
 
